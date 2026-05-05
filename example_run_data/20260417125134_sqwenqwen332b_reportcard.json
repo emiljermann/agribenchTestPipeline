@@ -1,0 +1,68 @@
+{
+    "model": "qwenqwen332b",
+    "scores": {
+        "total": {
+            "accuracy": 94.375,
+            "relevance": 95.875,
+            "completeness": 92.175,
+            "conciseness": 78.875,
+            "practicality": 89.7
+        },
+        "Soils_and_Soil_Health": {
+            "accuracy": 96.07142857142857,
+            "relevance": 96.07142857142857,
+            "completeness": 92.64285714285714,
+            "conciseness": 79.64285714285714,
+            "practicality": 91.78571428571429
+        },
+        "Crop_Nutrition_and_Fertility_Management": {
+            "accuracy": 94.44444444444444,
+            "relevance": 96.11111111111111,
+            "completeness": 92.61111111111111,
+            "conciseness": 78.88888888888889,
+            "practicality": 89.44444444444444
+        },
+        "Seed_Hybrid_Rootstock_Selection": {
+            "accuracy": 93.0,
+            "relevance": 96.0,
+            "completeness": 91.0,
+            "conciseness": 78.0,
+            "practicality": 88.8
+        },
+        "Pests_and_Pest_Management": {
+            "accuracy": 87.5,
+            "relevance": 90.0,
+            "completeness": 90.0,
+            "conciseness": 72.5,
+            "practicality": 87.5
+        },
+        "Horticultural_and_Agronomic_Practices": {
+            "accuracy": 92.5,
+            "relevance": 92.5,
+            "completeness": 90.0,
+            "conciseness": 75.0,
+            "practicality": 87.5
+        },
+        "Weather_and_Weather_Risks": {
+            "accuracy": 92.5,
+            "relevance": 92.5,
+            "completeness": 90.0,
+            "conciseness": 75.0,
+            "practicality": 87.5
+        },
+        "Water_Management_and_Irrigation": {
+            "accuracy": 91.25,
+            "relevance": 93.75,
+            "completeness": 90.0,
+            "conciseness": 76.25,
+            "practicality": 85.0
+        },
+        "Weeds_and_Weed_Management": {
+            "accuracy": 100.0,
+            "relevance": 100.0,
+            "completeness": 95.0,
+            "conciseness": 82.5,
+            "practicality": 92.5
+        }
+    }
+}

@@ -1,0 +1,229 @@
+[
+    {
+        "qna_id": "qna_000059",
+        "categories": [
+            "Soils_and_Soil_Health"
+        ],
+        "accuracy": 100,
+        "relevance": 100,
+        "completeness": 100,
+        "conciseness": 90,
+        "practicality": 95
+    },
+    {
+        "qna_id": "qna_000156",
+        "categories": [
+            "Crop_Nutrition_and_Fertility_Management"
+        ],
+        "accuracy": 95,
+        "relevance": 100,
+        "completeness": 95,
+        "conciseness": 85,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000067",
+        "categories": [
+            "Seed_Hybrid_Rootstock_Selection"
+        ],
+        "accuracy": 90,
+        "relevance": 90,
+        "completeness": 95,
+        "conciseness": 70,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000009",
+        "categories": [
+            "Pests_and_Pest_Management"
+        ],
+        "accuracy": 85,
+        "relevance": 80,
+        "completeness": 90,
+        "conciseness": 70,
+        "practicality": 85
+    },
+    {
+        "qna_id": "qna_000327",
+        "categories": [
+            "Seed_Hybrid_Rootstock_Selection"
+        ],
+        "accuracy": 90,
+        "relevance": 90,
+        "completeness": 90,
+        "conciseness": 80,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000026",
+        "categories": [
+            "Crop_Nutrition_and_Fertility_Management"
+        ],
+        "accuracy": 90,
+        "relevance": 85,
+        "completeness": 95,
+        "conciseness": 65,
+        "practicality": 80
+    },
+    {
+        "qna_id": "qna_000214",
+        "categories": [
+            "Soils_and_Soil_Health"
+        ],
+        "accuracy": 100,
+        "relevance": 100,
+        "completeness": 90,
+        "conciseness": 90,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000204",
+        "categories": [
+            "Horticultural_and_Agronomic_Practices",
+            "Weather_and_Weather_Risks"
+        ],
+        "accuracy": 95,
+        "relevance": 90,
+        "completeness": 90,
+        "conciseness": 80,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000097",
+        "categories": [
+            "Crop_Nutrition_and_Fertility_Management",
+            "Soils_and_Soil_Health"
+        ],
+        "accuracy": 95,
+        "relevance": 90,
+        "completeness": 90,
+        "conciseness": 85,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000043",
+        "categories": [
+            "Water_Management_and_Irrigation",
+            "Crop_Nutrition_and_Fertility_Management"
+        ],
+        "accuracy": 85,
+        "relevance": 80,
+        "completeness": 85,
+        "conciseness": 75,
+        "practicality": 80
+    },
+    {
+        "qna_id": "qna_000169",
+        "categories": [
+            "Water_Management_and_Irrigation",
+            "Seed_Hybrid_Rootstock_Selection"
+        ],
+        "accuracy": 90,
+        "relevance": 95,
+        "completeness": 90,
+        "conciseness": 80,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000044",
+        "categories": [
+            "Crop_Nutrition_and_Fertility_Management",
+            "Soils_and_Soil_Health"
+        ],
+        "accuracy": 90,
+        "relevance": 90,
+        "completeness": 92,
+        "conciseness": 70,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000299",
+        "categories": [
+            "Seed_Hybrid_Rootstock_Selection"
+        ],
+        "accuracy": 100,
+        "relevance": 100,
+        "completeness": 95,
+        "conciseness": 90,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000041",
+        "categories": [
+            "Crop_Nutrition_and_Fertility_Management",
+            "Soils_and_Soil_Health"
+        ],
+        "accuracy": 100,
+        "relevance": 95,
+        "completeness": 95,
+        "conciseness": 85,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000077",
+        "categories": [
+            "Seed_Hybrid_Rootstock_Selection"
+        ],
+        "accuracy": 85,
+        "relevance": 90,
+        "completeness": 90,
+        "conciseness": 70,
+        "practicality": 85
+    },
+    {
+        "qna_id": "qna_000112",
+        "categories": [
+            "Soils_and_Soil_Health"
+        ],
+        "accuracy": 90,
+        "relevance": 90,
+        "completeness": 90,
+        "conciseness": 70,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000161",
+        "categories": [
+            "Weeds_and_Weed_Management"
+        ],
+        "accuracy": 100,
+        "relevance": 100,
+        "completeness": 95,
+        "conciseness": 85,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000417",
+        "categories": [
+            "Crop_Nutrition_and_Fertility_Management"
+        ],
+        "accuracy": 90,
+        "relevance": 100,
+        "completeness": 95,
+        "conciseness": 85,
+        "practicality": 90
+    },
+    {
+        "qna_id": "qna_000024",
+        "categories": [
+            "Crop_Nutrition_and_Fertility_Management"
+        ],
+        "accuracy": 100,
+        "relevance": 100,
+        "completeness": 95,
+        "conciseness": 85,
+        "practicality": 95
+    },
+    {
+        "qna_id": "qna_000007",
+        "categories": [
+            "Crop_Nutrition_and_Fertility_Management",
+            "Soils_and_Soil_Health"
+        ],
+        "accuracy": 90,
+        "relevance": 100,
+        "completeness": 95,
+        "conciseness": 80,
+        "practicality": 90
+    }
+]

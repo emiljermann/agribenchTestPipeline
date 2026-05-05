@@ -1,0 +1,6 @@
+
+Error at 20260417125134 grading llama-3.1-8b-instant with openai/gpt-oss-20b on qna_000214:
+ Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kpbh24g1evqstbysc6q3zjph` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5718, Requested 2320. Please try again in 285ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+Error at 20260417125134 grading qwen/qwen3-32b with openai/gpt-oss-20b on qna_000169:
+ Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kpbh24g1evqstbysc6q3zjph` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4071, Requested 3941. Please try again in 90ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
