@@ -1,7 +1,4 @@
 
-
-# Emil Jermann Agribench Response Part 2
-
 ## Setup
 
 ### Build virtual environment with venv and pip
@@ -109,12 +106,3 @@ Global Variables
 - The ScoreKeeper class helps to more cleanly run final scores on model outputs
 - Errors are checked for frequently (in subject_test.py too) to ensure quality logging and handling.
 - The final judge prompt is combined in `utils.generate_judge_prompt()` which formats its output using XML tags to increase the likelihood of accurate contextualization from the LLM.
-
-## AI Statement
-
-I used AI to help on:
-- utils.py: read_json_array(), write_json_array(), log()
-- Final debug run including: 
-    - caught spelling errors (e.g. conciceness instead of conciseness in a few locations),
-    - moving GROQ_API_KEY check (i.e. now building client inside each model_callers.py function instead of in the file on import)
-
